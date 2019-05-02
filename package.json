@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusMelchiades/react-native-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "rocketseat",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusMelchiades/react-native-template/issues"
+  },
+  "homepage": "https://github.com/matheusMelchiades/react-native-template#readme"
+}

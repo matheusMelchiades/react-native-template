@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matheusMelchiades/react-native-template.git"
+    "url": "git+https://github.com/matheusmelchiades/react-native-template-basic.git"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matheusMelchiades/react-native-template/issues"
+    "url": "https://github.com/matheusmelchiades/react-native-template-basic/issues"
   },
-  "homepage": "https://github.com/matheusMelchiades/react-native-template#readme"
+  "homepage": "https://github.com/matheusmelchiades/react-native-template-basic#readme"
 }
